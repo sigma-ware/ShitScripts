@@ -5,7 +5,7 @@ if string.split(identifyexecutor() or "None", " ")[1] == "Xeno" then
 	getgenv().WebSocket = nil
 end
 
-local scripturl = "https://api.luarmor.net/files/v3/loaders/80b606551d4b7075eb3e229d6f68e4df.lua"
+local scripturl = "https://api.luarmor.net/files/v4/loaders/bee358e5bd07c342236b264c6865e159.lua"
 local repo: string = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
 local showGUI = true
 
